@@ -3,6 +3,10 @@ A simple interactive checklist to track the readiness of project technologies, f
 
 ---
 
+Link to website: https://vat134.github.io/vite_first_project/
+
+---
+
 ### Features
 
 - Interactive checkboxes.
