@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: 'vite_first_project',
+  base: '/vite_first_project/',
 })
