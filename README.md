@@ -28,3 +28,6 @@ Link to website: https://vat134.github.io/vite_first_project/
 - **TypeScript:** Static Typing
 - **Tailwind CSS:** CSS Framework
 
+---
+
+Has  a bug with icons if open from chrome (I tested and open it in firefox)
