@@ -31,3 +31,9 @@ Link to website: https://vat134.github.io/vite_first_project/
 ---
 
 Has  a bug with icons if open from chrome (I tested and open it in firefox)
+
+
+!!!!!!!!!!!!!
+
+When creating a branch for design with other UI elements, I did not change the branch in the project during work, and as a result, I have the shadcn-ui design in MAIN. 
+And the shadcn-ui branch contains the old version without these elements. 
